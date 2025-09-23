@@ -1,0 +1,89 @@
+2025-09-23 17:27:50,451 - INFO - Starting backend service...
+2025-09-23 17:27:52,452 - INFO - Starting frontend service...
+2025-09-23 17:28:20,998 - INFO - Sending request to backend API
+2025-09-23 17:28:23,052 - ERROR - Error occured while sending request to backend
+2025-09-23 17:28:42,631 - INFO - Sending request to backend API
+2025-09-23 17:28:44,683 - ERROR - Error occured while sending request to backend
+2025-09-23 17:30:32,598 - INFO - Sending request to backend API
+2025-09-23 17:30:34,649 - ERROR - Error occured while sending request to backend
+2025-09-23 17:33:26,162 - INFO - Sending request to backend API
+2025-09-23 17:33:28,201 - ERROR - Error occured while sending request to backend
+2025-09-23 17:34:48,035 - INFO - Sending request to backend API
+2025-09-23 17:34:50,073 - ERROR - Error occured while sending request to backend
+2025-09-23 17:39:30,382 - INFO - Sending request to backend API
+2025-09-23 17:39:30,432 - INFO - Received request for model: llama3-70b-8192
+2025-09-23 17:39:34,513 - ERROR - Some error occurred: create_react_agent() got unexpected keyword arguments: {'state_modifier': 'medical agent'}
+2025-09-23 17:39:34,515 - ERROR - backend error
+2025-09-23 17:42:07,169 - INFO - Starting backend service...
+2025-09-23 17:42:09,170 - INFO - Starting frontend service...
+2025-09-23 17:42:21,760 - INFO - Sending request to backend API
+2025-09-23 17:42:23,800 - ERROR - Error occured while sending request to backend
+2025-09-23 17:46:04,898 - INFO - starting backend service..
+2025-09-23 17:46:06,899 - INFO - Starting Frontend service
+2025-09-23 17:46:18,079 - INFO - Sending request to backend
+2025-09-23 17:46:18,095 - INFO - Received request for model : llama3-70b-8192
+2025-09-23 17:46:19,816 - ERROR - Some error ocuured during reponse generation
+2025-09-23 17:46:19,819 - ERROR - Backend error
+2025-09-23 17:47:00,374 - INFO - Sending request to backend
+2025-09-23 17:47:00,378 - INFO - Received request for model : llama3-70b-8192
+2025-09-23 17:47:02,116 - ERROR - Some error ocuured during reponse generation
+2025-09-23 17:47:02,119 - ERROR - Backend error
+2025-09-23 17:49:07,994 - INFO - Sending request to backend
+2025-09-23 17:49:08,000 - INFO - Received request for model : llama3-70b-8192
+2025-09-23 17:49:09,475 - ERROR - Some error ocuured during reponse generation
+2025-09-23 17:49:09,480 - ERROR - Backend error
+2025-09-23 17:49:14,858 - INFO - Sending request to backend
+2025-09-23 17:49:14,862 - INFO - Received request for model : llama-3.3-70b-versatile
+2025-09-23 17:49:16,294 - ERROR - Some error ocuured during reponse generation
+2025-09-23 17:49:16,296 - ERROR - Backend error
+2025-09-23 17:49:17,329 - INFO - Sending request to backend
+2025-09-23 17:49:17,334 - INFO - Received request for model : llama-3.3-70b-versatile
+2025-09-23 17:49:18,841 - ERROR - Some error ocuured during reponse generation
+2025-09-23 17:49:18,843 - ERROR - Backend error
+2025-09-23 17:54:26,233 - INFO - starting backend service..
+2025-09-23 17:54:28,234 - INFO - Starting Frontend service
+2025-09-23 17:56:20,302 - INFO - Sending request to backend
+2025-09-23 17:56:22,346 - ERROR - Error occured while sending request to backend
+2025-09-23 17:57:51,323 - INFO - Sending request to backend
+2025-09-23 17:57:53,362 - ERROR - Error occured while sending request to backend
+2025-09-23 17:58:57,565 - INFO - Sending request to backend
+2025-09-23 18:00:12,556 - INFO - Sending request to backend
+2025-09-23 18:03:33,401 - INFO - Received request for model : llama3-70b-8192
+2025-09-23 18:03:35,523 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-09-23 18:03:35,524 - ERROR - Some error ocuured during reponse generation
+2025-09-23 18:04:35,004 - INFO - Received request for model : llama-3.3-70b-versatile
+2025-09-23 18:04:36,804 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 18:04:36,826 - INFO - Sucesfully got response from AI Agent llama-3.3-70b-versatile
+2025-09-23 18:05:33,288 - INFO - Sending request to backend
+2025-09-23 18:05:33,297 - INFO - Received request for model : llama-3.3-70b-versatile
+2025-09-23 18:05:36,006 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 18:05:36,010 - INFO - Sucesfully got response from AI Agent llama-3.3-70b-versatile
+2025-09-23 18:05:36,012 - INFO - Sucesfully recived response from backend
+2025-09-23 18:05:56,867 - INFO - starting backend service..
+2025-09-23 18:05:58,868 - INFO - Starting Frontend service
+2025-09-23 18:06:20,077 - INFO - Sending request to backend
+2025-09-23 18:06:20,094 - INFO - Received request for model : llama-3.3-70b-versatile
+2025-09-23 18:06:22,508 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 18:06:26,491 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 18:06:26,494 - INFO - Sucesfully got response from AI Agent llama-3.3-70b-versatile
+2025-09-23 18:06:26,498 - INFO - Sucesfully recived response from backend
+2025-09-23 18:06:35,575 - INFO - Sending request to backend
+2025-09-23 18:06:35,580 - INFO - Received request for model : llama3-70b-8192
+2025-09-23 18:06:37,330 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-09-23 18:06:37,332 - ERROR - Some error ocuured during reponse generation
+2025-09-23 18:06:37,334 - ERROR - Backend error
+2025-09-23 18:07:04,069 - INFO - Sending request to backend
+2025-09-23 18:07:04,073 - INFO - Received request for model : gemini-1.5-flash
+2025-09-23 18:07:06,502 - INFO - Sucesfully got response from AI Agent gemini-1.5-flash
+2025-09-23 18:07:06,504 - INFO - Sucesfully recived response from backend
+2025-09-23 18:07:15,067 - INFO - Sending request to backend
+2025-09-23 18:07:15,071 - INFO - Received request for model : gemini-2.5-flash
+2025-09-23 18:07:23,531 - INFO - Sucesfully got response from AI Agent gemini-2.5-flash
+2025-09-23 18:07:23,532 - INFO - Sucesfully recived response from backend
+2025-09-23 18:11:02,204 - INFO - starting backend service..
+2025-09-23 18:11:04,204 - INFO - Starting Frontend service
+2025-09-23 18:11:23,570 - INFO - Sending request to backend
+2025-09-23 18:11:23,585 - INFO - Received request for model : llama-3.1-8b-instant
+2025-09-23 18:11:26,513 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 18:11:26,540 - INFO - Sucesfully got response from AI Agent llama-3.1-8b-instant
+2025-09-23 18:11:26,544 - INFO - Sucesfully recived response from backend
